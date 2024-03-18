@@ -1,0 +1,32 @@
+{
+  "name": "api-jibbit-manager",
+  "version": "1.0.0",
+  "description": "Manage your APIs effortlessly with a comprehensive manager, ensuring smooth integration and control.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wafflewarr10r/api-jibbit-manager"
+  },
+  "author": "wafflewarr10r",
+  "license": "MIT",
+  "dependencies": {
+    "api-jibbit-manager": "1.0.0",
+    "upload-jibbit-use": "1.0.0",
+    "helmet": "1.0.0",
+    "xml2js": "1.0.0",
+    "commander": "1.0.0",
+    "sinon": "1.0.0",
+    "web3-utils": "1.0.0",
+    "debug": "1.0.0",
+    "request": "1.0.0",
+    "supertest": "1.0.0",
+    "webpack": "1.0.0",
+    "mongoose": "1.0.0",
+    "sequelize": "1.0.0",
+    "chalk": "1.0.0",
+    "dotenv": "1.0.0"
+  }
+}
